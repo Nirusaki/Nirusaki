@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nirusaki
+- 👀 I’m interested in Linux,Automation,Bots,Hacking
+- 🌱 I’m currently learning Linux Core
+- 💞️ I’m looking to collaborate on Automations A.I
+- 📫 How to reach me nirusakimalaal@gmail.com
